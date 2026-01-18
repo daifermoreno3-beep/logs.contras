@@ -40,8 +40,13 @@
     "detalle": "Se generÃ³ la contraseÃ±a: dsVc0SFIU"
   },
   {
-    "fecha": "17/1/2026, 11:41:19 p. m.",
+    "fecha": "17/1/2026, 11:41:19 p.ï¿½m.",
     "accion": "GENERADO",
-    "detalle": "Se generó la contraseña: fr$IFeQUJ"
+    "detalle": "Se generï¿½ la contraseï¿½a: fr$IFeQUJ"
+  },
+  {
+    "fecha": "17/1/2026, 11:41:20 p. m.",
+    "accion": "GUARDADO",
+    "detalle": "Se guardó la clave de 231231: fr$IFeQUJ"
   }
 ]
