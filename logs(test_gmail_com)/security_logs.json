@@ -45,8 +45,13 @@
     "detalle": "Sitio: 231"
   },
   {
-    "fecha": "18/1/2026, 12:46:25 a. m.",
+    "fecha": "18/1/2026, 12:46:25 a.ï¿½m.",
     "accion": "GENERADO",
-    "detalle": "Se generó la contraseña: om9u0oQOm"
+    "detalle": "Se generï¿½ la contraseï¿½a: om9u0oQOm"
+  },
+  {
+    "fecha": "18/1/2026, 12:46:26 a. m.",
+    "accion": "GUARDADO",
+    "detalle": "Sitio: 1231e"
   }
 ]
