@@ -1,22 +1,27 @@
 [
   {
-    "fecha": "17/1/2026, 11:41:05 p.Ã‚Â m.",
+    "fecha": "17/1/2026, 11:41:05 p.Ãƒâ€šÃ‚Â m.",
     "accion": "REGISTRO",
     "detalle": "Nueva cuenta creada"
   },
   {
-    "fecha": "17/1/2026, 11:41:08 p.Â m.",
+    "fecha": "17/1/2026, 11:41:08 p.Ã‚Â m.",
     "accion": "GENERADO",
-    "detalle": "Se generÃ³ la contraseÃ±a: z0#qbWqSD"
+    "detalle": "Se generÃƒÂ³ la contraseÃƒÂ±a: z0#qbWqSD"
   },
   {
-    "fecha": "17/1/2026, 11:41:10 p. m.",
+    "fecha": "17/1/2026, 11:41:10 p.Â m.",
     "accion": "GUARDADO",
-    "detalle": "Se guardó la clave de 123123: z0#qbWqSD"
+    "detalle": "Se guardÃ³ la clave de 123123: z0#qbWqSD"
+  },
+  {
+    "fecha": "17/1/2026, 11:41:13 p. m.",
+    "accion": "GENERADO",
+    "detalle": "Se generó la contraseña: qrWG4MHZ%"
   },
   {
     "fecha": "17/1/2026, 11:41:13 p.�m.",
     "accion": "GENERADO",
-    "detalle": "Se gener� la contrase�a: qrWG4MHZ%"
+    "detalle": "Se gener� la contrase�a: 7MJ0vjunu"
   }
 ]
