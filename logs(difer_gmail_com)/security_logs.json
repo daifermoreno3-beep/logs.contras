@@ -1,32 +1,37 @@
 [
   {
-    "fecha": "17/1/2026, 11:41:05 p.ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â m.",
+    "fecha": "17/1/2026, 11:41:05 p.ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â m.",
     "accion": "REGISTRO",
     "detalle": "Nueva cuenta creada"
   },
   {
-    "fecha": "17/1/2026, 11:41:08 p.Ãƒâ€šÃ‚Â m.",
+    "fecha": "17/1/2026, 11:41:08 p.ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â m.",
     "accion": "GENERADO",
-    "detalle": "Se generÃƒÆ’Ã‚Â³ la contraseÃƒÆ’Ã‚Â±a: z0#qbWqSD"
+    "detalle": "Se generÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³ la contraseÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±a: z0#qbWqSD"
   },
   {
-    "fecha": "17/1/2026, 11:41:10 p.Ã‚Â m.",
+    "fecha": "17/1/2026, 11:41:10 p.Ãƒâ€šÃ‚Â m.",
     "accion": "GUARDADO",
-    "detalle": "Se guardÃƒÂ³ la clave de 123123: z0#qbWqSD"
+    "detalle": "Se guardÃƒÆ’Ã‚Â³ la clave de 123123: z0#qbWqSD"
+  },
+  {
+    "fecha": "17/1/2026, 11:41:13 p.Ã‚Â m.",
+    "accion": "GENERADO",
+    "detalle": "Se generÃƒÂ³ la contraseÃƒÂ±a: qrWG4MHZ%"
   },
   {
     "fecha": "17/1/2026, 11:41:13 p.Â m.",
     "accion": "GENERADO",
-    "detalle": "Se generÃ³ la contraseÃ±a: qrWG4MHZ%"
+    "detalle": "Se generÃ³ la contraseÃ±a: 7MJ0vjunu"
   },
   {
-    "fecha": "17/1/2026, 11:41:13 p. m.",
+    "fecha": "17/1/2026, 11:41:15 p. m.",
     "accion": "GENERADO",
-    "detalle": "Se generó la contraseña: 7MJ0vjunu"
+    "detalle": "Se generó la contraseña: 54sTESwhK"
   },
   {
-    "fecha": "17/1/2026, 11:41:15 p.�m.",
-    "accion": "GENERADO",
-    "detalle": "Se gener� la contrase�a: 54sTESwhK"
+    "fecha": "17/1/2026, 11:41:16 p.�m.",
+    "accion": "GUARDADO",
+    "detalle": "Se guard� la clave de 321312: 54sTESwhK"
   }
 ]
