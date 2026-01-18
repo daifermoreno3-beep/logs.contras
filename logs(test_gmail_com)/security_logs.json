@@ -1,17 +1,22 @@
 [
   {
-    "fecha": "18/1/2026, 12:42:58 a.Â m.",
+    "fecha": "18/1/2026, 12:42:58 a.Ã‚Â m.",
     "accion": "REGISTRO",
     "detalle": "Cuenta creada"
   },
   {
-    "fecha": "18/1/2026, 12:43:06 a. m.",
+    "fecha": "18/1/2026, 12:43:06 a.Â m.",
     "accion": "GUARDADO",
     "detalle": "Sitio: 1"
   },
   {
-    "fecha": "18/1/2026, 12:43:10 a.�m.",
+    "fecha": "18/1/2026, 12:43:10 a. m.",
     "accion": "GUARDADO",
     "detalle": "Sitio: 12"
+  },
+  {
+    "fecha": "18/1/2026, 12:43:14 a.�m.",
+    "accion": "GUARDADO",
+    "detalle": "Sitio: 1231"
   }
 ]
