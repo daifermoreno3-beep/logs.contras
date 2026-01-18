@@ -1,12 +1,17 @@
 [
   {
-    "fecha": "17/1/2026, 11:41:05 p.Â m.",
+    "fecha": "17/1/2026, 11:41:05 p.Ã‚Â m.",
     "accion": "REGISTRO",
     "detalle": "Nueva cuenta creada"
   },
   {
-    "fecha": "17/1/2026, 11:41:08 p. m.",
+    "fecha": "17/1/2026, 11:41:08 p.Â m.",
     "accion": "GENERADO",
-    "detalle": "Se generó la contraseña: z0#qbWqSD"
+    "detalle": "Se generÃ³ la contraseÃ±a: z0#qbWqSD"
+  },
+  {
+    "fecha": "17/1/2026, 11:41:10 p. m.",
+    "accion": "GUARDADO",
+    "detalle": "Se guardó la clave de 123123: z0#qbWqSD"
   }
 ]
